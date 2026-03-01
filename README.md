@@ -6,7 +6,6 @@ we cut this game into three parts:
 2.FarmScene(our feature 1)  
 3.Store Scene(our feature 2)**  
 
-## Source Code:https://github.com/YuHung0817/final-try
 
 ## 1. Game Scene
 All roles have infinite amount of bombs, it can be put when the role has no tool.
